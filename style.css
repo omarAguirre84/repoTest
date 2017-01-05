@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+}
+
+#pub, #errores, #limpiar{
+	height: 20px;
+	width: 55px;
+	border: 3px solid #0080C0;
+	background-color: #00A3F0;
+	display: inline-block;
+}
+
+#image{
+	height: 30px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+table{
+	min-width: 200px;
+	border-collapse: collapse;
+}
+
+th{
+	font-weight: 900;
+}
+
+.proc{
+	-webkit-column-width: 130px; /* Chrome, Safari, Opera */
+}
+
